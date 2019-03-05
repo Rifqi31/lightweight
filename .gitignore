@@ -11,7 +11,7 @@ npm-debug.log
 yarn-error.log
 
 .gitattributes
-.github
+/.github
 .composer.lock
 .packae-lock.json
 .env.example
