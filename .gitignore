@@ -12,6 +12,7 @@ yarn-error.log
 
 .gitattributes
 /.github
+/.github/ISSUE_TEMPLATE
 .composer.lock
 .packae-lock.json
 .env.example
