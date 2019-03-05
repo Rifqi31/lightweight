@@ -1,0 +1,16 @@
+{
+    "name": "rifqi/lightweight_project",
+    "description": "Laravel Package with less config and lightweight",
+    "type": "project",
+    "require": {
+        "components/font-awesome": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rifqi Muttaqin",
+            "email": "muttaqinrifqi31@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
