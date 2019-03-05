@@ -21,21 +21,21 @@ for starting project, be sure using this spells:
 those spell for download available package requirements from *composer.json* and *package.json*
 
 for identify your project, just edit *composer.json* where at :
->`` "name": "rifqi/lightweight_project",``
+`` "name": "rifqi/lightweight_project",``
 ``"description": "Laravel Package with less config and lightweight",``
 
 and here to
->``"keywords": ["lightweight","rifqi31"],``
+``"keywords": ["lightweight","rifqi31"],``
 ``"authors": [{"name": "Rifqi Muttaqin","email": "muttaqinrifqi31@gmail.com"}],``
 
 don't forget to configure your *.env* file just like this :
->``APP_NAME=YourAppName``
+``APP_NAME=YourAppName``
 ``APP_ENV=local``
 ``APP_KEY=base64:``
 ``APP_DEBUG=true``
 ``APP_URL=http://localhost``
 
->``DB_CONNECTION=mysql``
+``DB_CONNECTION=mysql``
 ``DB_HOST=127.0.0.1``
 ``DB_PORT=3306``
 ``DB_DATABASE=YourDbName``
